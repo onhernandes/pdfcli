@@ -1,0 +1,7 @@
+PyPDF2>=3.0.0
+click>=8.0.0
+
+# Test dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+reportlab>=3.6.0
